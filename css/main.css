@@ -625,6 +625,9 @@ label.valid {
     }
 }
 
+.black-hover:hover {
+    color: black;
+}
 
 
 
